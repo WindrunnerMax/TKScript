@@ -88,6 +88,17 @@
 </tr>
 
 <tr>
+<td>移除 DevTools 拦截器</td>
+<td><a href="https://github.com/WindrunnerMax/TKScript/blob/master/packages/devtools/README.md">详情</a></td>
+<td>
+<a href="https://windrunnermax.github.io/TKScript/devtools.user.js">安装</a>
+<span>｜</span>
+<a href="https://cdn.jsdelivr.net/gh/WindrunnerMax/TKScript@gh-pages/devtools.user.js">备用</a>
+</td>
+<td>移除调试器拦截器，防止浏览器<code>DevTools</code>被拦截。</td>
+</tr>
+
+<tr>
 <td>自动展开阅读全文</td>
 <td><a href="https://github.com/WindrunnerMax/TKScript/blob/master/packages/expansion/README.md">详情</a></td>
 <td>
